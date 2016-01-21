@@ -1,3 +1,3 @@
 # kaatispaikka
 
-moooi
+Tervetuloa minun Kaatispaikka repoon 
